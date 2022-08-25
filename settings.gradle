@@ -1,0 +1,4 @@
+rootProject.name = 'bgs5'
+// add inclusions as the chapter sources are followed
+include 'chapter2'
+
